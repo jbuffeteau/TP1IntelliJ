@@ -25,6 +25,7 @@ public class FrmPrincipal extends JFrame{
                 datas[0][1] = "Microsoft";
                 datas[0][2] = "2003";
                 datas[1][0] = "2";
+
                 datas[1][1] = "IBM";
                 datas[1][2] = "2007";
                 datas[2][0] = "3";
